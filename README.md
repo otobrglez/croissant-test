@@ -6,3 +6,4 @@ Results of Croissant Test.
 
 ![CT2](./Croissant_Test_Per_Ocenil.png)
 
+![CT3](./croissant_test_jure.png)
